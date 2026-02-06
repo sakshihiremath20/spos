@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 
-class Test
+class fifo
 {
     // Method to find page faults using FIFO
     static int pageFaults(int pages[], int n, int capacity)
